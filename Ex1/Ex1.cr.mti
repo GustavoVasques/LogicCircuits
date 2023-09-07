@@ -1,0 +1,17 @@
+{C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/tb and2 1bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/tb and2 1bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_and2_1bit
+-- Compiling architecture tb of tb_and2_1bit
+
+} {} {}} {C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/and2_1bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/and2_1bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2_1bit
+-- Compiling architecture behaviour of and2_1bit
+
+} {} {}}

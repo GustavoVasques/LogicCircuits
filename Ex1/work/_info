@@ -1,0 +1,263 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits
+Eand1
+Z1 w1694049551
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:\Users\gustavo.vasques\OneDrive - Instituto de Pesquisas Eldorado\Desktop\Scripts\Unicamp\LogicCircuits\multiplexador_2_1.vhd
+Z5 FC:\Users\gustavo.vasques\OneDrive - Instituto de Pesquisas Eldorado\Desktop\Scripts\Unicamp\LogicCircuits\multiplexador_2_1.vhd
+l0
+L17
+VjJnoLCCG>zU8BaMzZ7<FQ2
+!s100 6[kS;n[c6^eIzT:7Y`1f?2
+Z6 OV;C;10.5b;63
+32
+!s110 1694049554
+!i10b 1
+!s108 1694049554.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\gustavo.vasques\OneDrive - Instituto de Pesquisas Eldorado\Desktop\Scripts\Unicamp\LogicCircuits\multiplexador_2_1.vhd|
+Z8 !s107 C:\Users\gustavo.vasques\OneDrive - Instituto de Pesquisas Eldorado\Desktop\Scripts\Unicamp\LogicCircuits\multiplexador_2_1.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Abehavior_and1
+R2
+R3
+DEx4 work 4 and1 0 22 jJnoLCCG>zU8BaMzZ7<FQ2
+l26
+L25
+VN>YjfWXmCIP??:eO`FU9L3
+!s100 S<nzhKV;1fl0N]HO3;>DO0
+R6
+32
+Z11 !s110 1694049444
+!i10b 1
+Z12 !s108 1694049444.000000
+R7
+R8
+!i113 1
+R9
+R10
+Eand2
+Z13 w1694049441
+R2
+R3
+R0
+R4
+R5
+l0
+L34
+V47gM:[m8i@?DJdWQ4^z;b0
+!s100 n4fIJ[P5_ZHDLIO9Rb_ST2
+R6
+32
+R11
+!i10b 1
+R12
+R7
+R8
+!i113 1
+R9
+R10
+Abehavior_and2
+R2
+R3
+DEx4 work 4 and2 0 22 47gM:[m8i@?DJdWQ4^z;b0
+l43
+L42
+VDh?B]6diZznSMhDMd^7X43
+!s100 LQMZ`>6BcPLY;PED<<J@d1
+R6
+32
+R11
+!i10b 1
+R12
+R7
+R8
+!i113 1
+R9
+R10
+Eand2_1bit
+Z14 w1694041083
+R2
+R3
+R0
+Z15 8C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/and2_1bit.vhd
+Z16 FC:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/and2_1bit.vhd
+l0
+L4
+Vl]3J4]3023@VSjTi8ED]C0
+!s100 PokkLjIE8fIoNcDMg_hfo0
+R6
+32
+Z17 !s110 1694048891
+!i10b 1
+Z18 !s108 1694048891.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/and2_1bit.vhd|
+Z20 !s107 C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/and2_1bit.vhd|
+!i113 1
+R9
+R10
+Abehaviour
+R2
+R3
+DEx4 work 9 and2_1bit 0 22 l]3J4]3023@VSjTi8ED]C0
+l10
+L9
+V;L1cBT>:dB85BbI@A1Scl3
+!s100 1m8ALCdX5@EcDAO;oG9^d3
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R9
+R10
+Emultiplexador_2_1
+Z21 w1694050807
+R2
+R3
+R0
+R4
+R5
+l0
+L4
+VTLMB:]Dz:YI7Bn=G]eIAK2
+!s100 :6SenkYGBX5^QWPT?aomM0
+R6
+32
+Z22 !s110 1694050810
+!i10b 1
+Z23 !s108 1694050810.000000
+R7
+R8
+!i113 1
+R9
+R10
+Abehavior_and1
+R2
+R3
+Z24 DEx4 work 17 multiplexador_2_1 0 22 TLMB:]Dz:YI7Bn=G]eIAK2
+l17
+L14
+VzQTE4>>Kb=g3Aj]hQ`4zi2
+!s100 QhL5WPDk2gX`g`icEESKk2
+R6
+32
+R22
+!i10b 1
+R23
+R7
+R8
+!i113 1
+R9
+R10
+Abehavior_and2
+R2
+R3
+R24
+l23
+L21
+VVI7?<>H^zIBoiFb;X[ID^3
+!s100 aA[TfDhETIgBW_RDXmQ]_3
+R6
+32
+Z25 !s110 1694050754
+!i10b 1
+Z26 !s108 1694050754.000000
+R7
+R8
+!i113 1
+R9
+R10
+Z27 w1694050750
+Enot1
+R13
+R2
+R3
+R0
+R4
+R5
+l0
+L51
+VlfLJI=k9gY2MOE<k4TNN>1
+!s100 <R0Dj8geKDXjd@^mHKkj52
+R6
+32
+R11
+!i10b 1
+R12
+R7
+R8
+!i113 1
+R9
+R10
+Abehavior_not1
+R2
+R3
+DEx4 work 4 not1 0 22 lfLJI=k9gY2MOE<k4TNN>1
+l59
+L58
+VB[l^e[O5BU]3mBdbOa2^n2
+!s100 ;O0zGQ1l<PMU61eb=1]NC2
+R6
+32
+R11
+!i10b 1
+R12
+R7
+R8
+!i113 1
+R9
+R10
+Etb_and2_1bit
+Z28 w1694042902
+R2
+R3
+R0
+Z29 8C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/tb and2 1bit.vhd
+Z30 FC:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/tb and2 1bit.vhd
+l0
+L4
+V7lHZ<jR8?9OQ@MJZcP>n00
+!s100 [@Y@OWgkAIKin]VkAdFWg1
+R6
+32
+R17
+!i10b 1
+R18
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/tb and2 1bit.vhd|
+Z32 !s107 C:/Users/gustavo.vasques/OneDrive - Instituto de Pesquisas Eldorado/Desktop/Scripts/Unicamp/LogicCircuits/tb and2 1bit.vhd|
+!i113 1
+R9
+R10
+Atb
+R2
+R3
+DEx4 work 12 tb_and2_1bit 0 22 7lHZ<jR8?9OQ@MJZcP>n00
+l17
+L7
+VOQdHEH=YJcg9zE_>C9]>b1
+!s100 ZXXQS3gzPdX84U7`m6^I?2
+R6
+32
+R17
+!i10b 1
+R18
+R31
+R32
+!i113 1
+R9
+R10
